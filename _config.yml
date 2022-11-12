@@ -7,11 +7,11 @@
 
 # Site settings
 title: Home
-email: non[dot]exist[at]gmail.com
-description: Log about stuffs related to electronics and software.
+email: do_not_email[dot]me[at]gmail.com
+description: Technical blogs with a variety of topics, whatever I find interesting or working on.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://B-0312.github.io" # the base hostname & protocol for your site
+url: "http://john-sb312.github.io" # the base hostname & protocol for your site
 
 
 # Build settings
