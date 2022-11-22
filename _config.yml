@@ -1,9 +1,7 @@
 # Site settings
-title: Home
+title: Home 🌙
 email: do_not_email[dot]me[at]gmail.com
-description: Technical blogs with a variety of topics, whatever I find interesting or working on.
-
-baseurl: "" # the subpath of your site, e.g. /blog
+description: Yet another rather very boring tech blog.
 url: "http://john-sb312.github.io" # the base hostname & protocol for your site
 
 markdown: kramdown
