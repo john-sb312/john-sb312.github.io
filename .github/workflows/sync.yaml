@@ -25,6 +25,9 @@ on:
   # Allows manual workflow run (must in default branch to work)
   workflow_dispatch:
 
+permissions: 
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
