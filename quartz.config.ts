@@ -3,11 +3,11 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🌔 The Mission",
+    pageTitle: "🌔",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "john-sb312.github.io/mission",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
