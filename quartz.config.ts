@@ -8,7 +8,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     baseUrl: "john-sb312.github.io/mission",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["_private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {
